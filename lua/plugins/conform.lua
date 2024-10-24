@@ -49,6 +49,7 @@ return {
         sh = { "shfmt" },
         cpp = { "clang_format" },
         cmake = { "cmake_format" },
+        json = { "fixjson" },
       },
 
       -- The options you set here will be merged with the builtin formatters.
